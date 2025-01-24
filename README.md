@@ -1,2 +1,2 @@
-# big-projects
-this repository contain big projects
+# Libaray Management System
+A system to manage libarary
